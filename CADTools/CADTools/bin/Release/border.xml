@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<persons>
+  <person>
+    <name>珠海华成目录</name>
+    <blockname>目录</blockname>
+    <hasSiganature>否</hasSiganature>
+  </person>
+  <person>
+    <name>江门院目录</name>
+    <blockname>目录1</blockname>
+    <hasSiganature>否</hasSiganature>
+  </person>
+   <person>
+    <name>浙江院目录</name>
+    <blockname>目录2</blockname>
+    <hasSiganature>否</hasSiganature>
+  </person>
+</persons>
